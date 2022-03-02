@@ -1,5 +1,5 @@
 # AWS CodeBuild buildspec to build the nginx alpine image
-
+# Why not
 # This requires the following environment variables be set on the Project:
 # AWS_DEFAULT_REGION (Supplied by CodeBuild)
 # AWS_ACCOUNT_ID
